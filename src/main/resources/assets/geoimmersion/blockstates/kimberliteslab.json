@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/kimberliteslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/kimberliteslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/kimberliteslab_full"
+    }
+  }
+}

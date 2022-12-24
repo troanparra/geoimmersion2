@@ -1,0 +1,10 @@
+{
+  "parent": "geoimmersion:custom/basalt_colunar",
+  "textures": {
+    "all": "geoimmersion:blocks/basalt_colunartopbot",
+    "particle": "geoimmersion:blocks/basalt_colunartopbot",
+    "0": "geoimmersion:blocks/basalt_colunarside1",
+    "1": "geoimmersion:blocks/basalt_colunarside2",
+    "2": "geoimmersion:blocks/basalt_colunartopbot"
+  }
+}

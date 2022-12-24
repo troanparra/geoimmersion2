@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:aluminium"
+    },
+    "1": {
+      "item": "geoimmersion:aluminium"
+    },
+    "2": {
+      "item": "geoimmersion:aluminium"
+    },
+    "3": {
+      "item": "geoimmersion:aluminium"
+    },
+    "5": {
+      "item": "geoimmersion:aluminium"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:asbestos_suit_armor_helmet",
+    "count": 1
+  }
+}

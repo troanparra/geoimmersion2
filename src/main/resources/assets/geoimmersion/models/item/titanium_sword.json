@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "geoimmersion:items/titanium_sword"
+  }
+}

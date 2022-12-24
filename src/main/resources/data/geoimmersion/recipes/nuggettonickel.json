@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:nickelnugget"
+    },
+    "1": {
+      "item": "geoimmersion:nickelnugget"
+    },
+    "2": {
+      "item": "geoimmersion:nickelnugget"
+    },
+    "3": {
+      "item": "geoimmersion:nickelnugget"
+    },
+    "4": {
+      "item": "geoimmersion:nickelnugget"
+    },
+    "5": {
+      "item": "geoimmersion:nickelnugget"
+    },
+    "6": {
+      "item": "geoimmersion:nickelnugget"
+    },
+    "7": {
+      "item": "geoimmersion:nickelnugget"
+    },
+    "8": {
+      "item": "geoimmersion:nickelnugget"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:nickelingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "minecraft:paper"
+    },
+    "4": {
+      "item": "geoimmersion:trinitrotoluene"
+    },
+    "5": {
+      "item": "minecraft:paper"
+    },
+    "6": {
+      "item": "minecraft:paper"
+    },
+    "7": {
+      "item": "geoimmersion:trinitrotoluene"
+    },
+    "8": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:hand_tnt",
+    "count": 10
+  }
+}

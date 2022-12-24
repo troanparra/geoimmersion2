@@ -1,0 +1,8 @@
+{
+  "parent": "geoimmersion:custom/ambar_fossil",
+  "textures": {
+    "all": "geoimmersion:blocks/ambar_fossil",
+    "particle": "geoimmersion:blocks/ambar_fossil",
+    "0": "geoimmersion:blocks/ambar_fossil"
+  }
+}

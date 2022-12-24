@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "geoimmersion:blocks/andesite",
+    "top": "geoimmersion:blocks/andesite",
+    "side": "geoimmersion:blocks/andesite"
+  }
+}

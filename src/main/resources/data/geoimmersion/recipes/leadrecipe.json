@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:leadnugget"
+    },
+    "1": {
+      "item": "geoimmersion:leadnugget"
+    },
+    "2": {
+      "item": "geoimmersion:leadnugget"
+    },
+    "3": {
+      "item": "geoimmersion:leadnugget"
+    },
+    "4": {
+      "item": "geoimmersion:leadnugget"
+    },
+    "5": {
+      "item": "geoimmersion:leadnugget"
+    },
+    "6": {
+      "item": "geoimmersion:leadnugget"
+    },
+    "7": {
+      "item": "geoimmersion:leadnugget"
+    },
+    "8": {
+      "item": "geoimmersion:leadnugget"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:lead_ingot",
+    "count": 1
+  }
+}

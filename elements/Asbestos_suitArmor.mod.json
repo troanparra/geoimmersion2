@@ -1,0 +1,65 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "asbestos_suit_head",
+    "enableBody": true,
+    "textureBody": "asbestos_suit_body",
+    "enableLeggings": true,
+    "textureLeggings": "asbestos_suit_leggings",
+    "enableBoots": true,
+    "textureBoots": "asbestos_suit_boots",
+    "onHelmetTick": {
+      "name": "AsbestossuitArmorHelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "armorTextureFile": "asbestos_suit",
+    "helmetName": "Asbestos_suit Helmet (experimental)",
+    "bodyName": "Asbestos_suit Chestplate (experimental)",
+    "leggingsName": "Asbestos_suit Leggings (experimental)",
+    "bootsName": "Asbestos_suit Boots (experimental)",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 5,
+    "damageValueHelmet": 1,
+    "damageValueBody": 2,
+    "damageValueLeggings": 2,
+    "damageValueBoots": 1,
+    "enchantability": 3,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Aluminium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "geoimmersion:volcanicash"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "geoimmersion:volcanicash"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:light_blue_dye"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "geoimmersion:volcanicash"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "geoimmersion:volcanicash"
+    }
+  ],
+  "result": {
+    "item": "minecraft:light_blue_concrete_powder",
+    "count": 8
+  }
+}

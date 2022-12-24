@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "Geoimmersion Minerals",
+    "icon": {
+      "value": "CUSTOM:Casseterite"
+    },
+    "showSearch": false
+  }
+}

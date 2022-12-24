@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/schistslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/schistslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/schistslab_full"
+    }
+  }
+}

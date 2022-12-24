@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tin_axe",
+    "customModelName": "Normal",
+    "name": "Tin Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:GeoimmersionTools"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 1.0,
+    "enchantability": 7,
+    "damageVsEntity": 7.5,
+    "usageCount": 150,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Tiningot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

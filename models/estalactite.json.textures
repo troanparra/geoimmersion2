@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "limestone",
+        "1": "limestone_top",
+        "2": "limestone_bot",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

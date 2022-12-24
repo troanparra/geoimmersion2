@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "geoimmersion:bauxite"
+    },
+    "title": {
+      "translate": "advancements.bauxite_page.title"
+    },
+    "description": {
+      "translate": "advancements.bauxite_page.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "bauxite_page": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "geoimmersion:bauxite"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "geoimmersion:metamorphic"
+}

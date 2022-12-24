@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/rioliteslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/rioliteslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/rioliteslab_full"
+    }
+  }
+}

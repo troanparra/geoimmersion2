@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:aluminium"
+    },
+    "2": {
+      "item": "geoimmersion:aluminium"
+    },
+    "3": {
+      "item": "geoimmersion:aluminium"
+    },
+    "4": {
+      "item": "geoimmersion:aluminium"
+    },
+    "5": {
+      "item": "geoimmersion:aluminium"
+    },
+    "6": {
+      "item": "geoimmersion:steel"
+    },
+    "7": {
+      "item": "geoimmersion:steel"
+    },
+    "8": {
+      "item": "geoimmersion:steel"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:pistonhead",
+    "count": 1
+  }
+}

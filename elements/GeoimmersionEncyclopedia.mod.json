@@ -1,0 +1,115 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 270,
+    "height": 190,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Rocks",
+          "onClick": {
+            "name": "RocksButtonClicked"
+          },
+          "width": 60,
+          "height": 20,
+          "name": "Rocks",
+          "x": 246,
+          "y": 163
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Geoimmersion Encyclopedia",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Geoimmersion Encyclopedia",
+          "x": 96,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Minerals",
+          "onClick": {
+            "name": "MineralButtonClicked"
+          },
+          "width": 67,
+          "height": 20,
+          "name": "Minerals",
+          "x": 116,
+          "y": 163
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "This is where all your data and information",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "This is where all your data and information",
+          "x": 101,
+          "y": 68
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "about the rocks and minerals collected in the",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "about the rocks and minerals collected in the",
+          "x": 96,
+          "y": 87
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Geoimmersion mod shall be cataloged for further",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Geoimmersion mod shall be cataloged for further",
+          "x": 91,
+          "y": 106
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "reading and studyng.",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "reading and studyng.",
+          "x": 161,
+          "y": 125
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 19,
+      "ox": 1,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

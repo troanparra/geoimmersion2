@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/platinum_gabbro",
+    "up": "geoimmersion:blocks/platinum_gabbro",
+    "north": "geoimmersion:blocks/platinum_gabbro",
+    "east": "geoimmersion:blocks/platinum_gabbro",
+    "south": "geoimmersion:blocks/platinum_gabbro",
+    "west": "geoimmersion:blocks/platinum_gabbro",
+    "particle": "geoimmersion:blocks/platinum_gabbro"
+  }
+}

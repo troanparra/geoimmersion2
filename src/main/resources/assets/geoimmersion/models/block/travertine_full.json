@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "geoimmersion:blocks/travertine_top_bottom",
+    "top": "geoimmersion:blocks/travertine_top_bottom",
+    "side": "geoimmersion:blocks/travertine"
+  }
+}

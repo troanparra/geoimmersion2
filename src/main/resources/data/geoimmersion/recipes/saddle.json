@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lead"
+    },
+    "1": {
+      "item": "geoimmersion:stitchedleather"
+    },
+    "2": {
+      "item": "minecraft:lead"
+    },
+    "3": {
+      "item": "geoimmersion:stitchedleather"
+    },
+    "4": {
+      "item": "geoimmersion:stitchedleather"
+    },
+    "5": {
+      "item": "geoimmersion:stitchedleather"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "geoimmersion:stitchedleather"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:saddle",
+    "count": 1
+  }
+}

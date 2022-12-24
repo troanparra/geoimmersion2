@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:tiningot"
+    },
+    "1": {
+      "item": "geoimmersion:tiningot"
+    },
+    "2": {
+      "item": "geoimmersion:tiningot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:tin_geologisthammer",
+    "count": 1
+  }
+}

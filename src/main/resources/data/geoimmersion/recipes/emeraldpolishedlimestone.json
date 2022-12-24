@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "geoimmersion:emeraldsandpaper"
+    },
+    {
+      "item": "geoimmersion:limestone"
+    }
+  ],
+  "result": {
+    "item": "geoimmersion:polishedlimestone",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Quartizitewithgolddust"
+      },
+      {
+        "value": "CUSTOM:Quartizitewithgoldnuggets"
+      },
+      {
+        "value": "CUSTOM:Quartizitewithhugegoldnugget"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "ores/gold",
+    "namespace": "forge"
+  }
+}

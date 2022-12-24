@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/volcanicash"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/volcanicash_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/volcanicash_full"
+    }
+  }
+}

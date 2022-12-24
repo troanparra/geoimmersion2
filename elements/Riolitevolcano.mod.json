@@ -1,0 +1,30 @@
+{
+  "_fv": 34,
+  "_type": "structure",
+  "definition": {
+    "structure": "riolite_volcano",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 10000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -6,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Volcanicash"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Rioliticterrain"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

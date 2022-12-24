@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "geoimmersion:blocks/soft_snow",
+    "top": "geoimmersion:blocks/soft_snow",
+    "side": "geoimmersion:blocks/soft_snow"
+  }
+}

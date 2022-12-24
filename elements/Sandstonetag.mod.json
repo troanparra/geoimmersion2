@@ -1,0 +1,26 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Sandstone"
+      },
+      {
+        "value": "CUSTOM:GravitySandstone"
+      },
+      {
+        "value": "CUSTOM:Polishedsandstone"
+      },
+      {
+        "value": "CUSTOM:Metasandstone"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "blocks/sandstone",
+    "namespace": "forge"
+  }
+}

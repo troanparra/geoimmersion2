@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:titaniumnugget"
+    },
+    "1": {
+      "item": "geoimmersion:titaniumnugget"
+    },
+    "2": {
+      "item": "geoimmersion:titaniumnugget"
+    },
+    "3": {
+      "item": "geoimmersion:titaniumnugget"
+    },
+    "4": {
+      "item": "geoimmersion:titaniumnugget"
+    },
+    "5": {
+      "item": "geoimmersion:titaniumnugget"
+    },
+    "6": {
+      "item": "geoimmersion:titaniumnugget"
+    },
+    "7": {
+      "item": "geoimmersion:titaniumnugget"
+    },
+    "8": {
+      "item": "geoimmersion:titaniumnugget"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:titanium_ingot",
+    "count": 1
+  }
+}

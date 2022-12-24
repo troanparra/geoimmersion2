@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Volcanicash"
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "CUSTOM:Volcanicash"
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Items.DYE#5"
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "CUSTOM:Volcanicash"
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "CUSTOM:Volcanicash"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.CONCRETE_POWDER#10"
+    },
+    "name": "purpleconcretepowderrecipe",
+    "namespace": "mod"
+  }
+}

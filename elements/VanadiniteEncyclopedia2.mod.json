@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 270,
+    "height": 190,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "VanadiniteButtonClicked"
+          },
+          "width": 9,
+          "height": 20,
+          "name": ".",
+          "x": 91,
+          "y": 181
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "dsc_0006.400p.png",
+          "use1Xscale": true,
+          "name": "dsc_0006.400p.png",
+          "x": 116,
+          "y": 46
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 10,
+      "ox": 1,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

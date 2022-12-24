@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/sylvite",
+    "up": "geoimmersion:blocks/sylvite",
+    "north": "geoimmersion:blocks/sylvite",
+    "east": "geoimmersion:blocks/sylvite",
+    "south": "geoimmersion:blocks/sylvite",
+    "west": "geoimmersion:blocks/sylvite",
+    "particle": "geoimmersion:blocks/sylvite"
+  }
+}

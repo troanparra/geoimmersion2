@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "geoimmersion:block/stalactite"
+    },
+    "facing=east": {
+      "model": "geoimmersion:block/stalactite",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "geoimmersion:block/stalactite",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "geoimmersion:block/stalactite",
+      "y": 270
+    }
+  }
+}

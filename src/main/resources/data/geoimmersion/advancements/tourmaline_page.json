@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "geoimmersion:tourmaline"
+    },
+    "title": {
+      "translate": "advancements.tourmaline_page.title"
+    },
+    "description": {
+      "translate": "advancements.tourmaline_page.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "tourmaline_page": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "geoimmersion:tourmaline"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "geoimmersion:first_cobblestone"
+}

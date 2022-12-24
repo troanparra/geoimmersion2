@@ -1,0 +1,17 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:CopperinGabro"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "ores/copper",
+    "namespace": "minecraft"
+  }
+}

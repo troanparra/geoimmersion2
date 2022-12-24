@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "geoimmersion:polisheddiabase"
+  },
+  "result": "geoimmersion:polished_diabase_stairs"
+}

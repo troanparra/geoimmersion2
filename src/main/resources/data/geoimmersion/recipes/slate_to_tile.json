@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:polished_slate"
+    },
+    "1": {
+      "item": "geoimmersion:polished_slate"
+    },
+    "2": {
+      "item": "geoimmersion:polished_slate"
+    },
+    "3": {
+      "item": "geoimmersion:polished_slate"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:slate_tile",
+    "count": 8
+  }
+}

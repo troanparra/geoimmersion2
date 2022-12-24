@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 400,
+  "ingredient": {
+    "item": "geoimmersion:torbenite"
+  },
+  "result": "geoimmersion:uraniumnugget"
+}

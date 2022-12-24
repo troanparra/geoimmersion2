@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/polishedslateslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/polishedslateslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/polishedslateslab_full"
+    }
+  }
+}

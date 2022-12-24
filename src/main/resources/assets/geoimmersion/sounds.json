@@ -1,0 +1,32 @@
+{
+  "sister_theia": {
+    "category": "music",
+    "subtitle": "subtitles.sister_theia",
+    "sounds": [
+      {
+        "name": "geoimmersion:sister_theia_-_troan_parra",
+        "stream": true
+      }
+    ]
+  },
+  "me_myself_and_my_enemy": {
+    "category": "music",
+    "subtitle": "subtitles.me_myself_and_my_enemy",
+    "sounds": [
+      {
+        "name": "geoimmersion:me_myself_and_my_enemy_lost_fishes_-_negribeats",
+        "stream": true
+      }
+    ]
+  },
+  "aftermath_of_the_beginning": {
+    "category": "music",
+    "subtitle": "subtitles.aftermath_of_the_beginning",
+    "sounds": [
+      {
+        "name": "geoimmersion:aftermath_of_the_beginning_-_troan_parra",
+        "stream": true
+      }
+    ]
+  }
+}

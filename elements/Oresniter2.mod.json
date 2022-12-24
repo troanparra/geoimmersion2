@@ -1,0 +1,21 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [
+      {
+        "value": "CUSTOM:SodiumNitrateBlock"
+      }
+    ],
+    "blocks": [
+      {
+        "value": "CUSTOM:SodiumNitrateBlock"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "ores/niter",
+    "namespace": "forge"
+  }
+}

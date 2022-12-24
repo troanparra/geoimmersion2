@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "hand_tnt",
+    "customModelName": "Normal",
+    "name": "Nobel's Throwable Dynamite",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:GeoimmersionMiscellaneous"
+    },
+    "stackSize": 16,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 1,
+    "actionSound": {
+      "value": "entity.creeper.hurt"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": true,
+    "damageVsEntity": 0.0,
+    "bulletPower": 0.5,
+    "bulletDamage": 20.0,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Nobelsthrowabledynamite"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "hand_tnt_projectile.png",
+    "onBulletHitsBlock": {
+      "name": "NobelsthrowabledynamiteBulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "NobelsthrowabledynamiteBulletHitsBlock"
+    },
+    "onBulletFlyingTick": {
+      "name": "NobelsthrowabledynamiteWhileBulletFlyingTick"
+    }
+  }
+}

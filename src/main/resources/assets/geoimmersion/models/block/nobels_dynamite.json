@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/dynamite_bot",
+    "up": "geoimmersion:blocks/dynamite_top",
+    "north": "geoimmersion:blocks/dynamite",
+    "east": "geoimmersion:blocks/dynamite",
+    "south": "geoimmersion:blocks/dynamite",
+    "west": "geoimmersion:blocks/dynamite",
+    "particle": "geoimmersion:blocks/dynamite_bot"
+  }
+}

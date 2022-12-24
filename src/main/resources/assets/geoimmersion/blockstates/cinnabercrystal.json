@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "geoimmersion:block/cinnabercrystal"
+    },
+    "facing=east": {
+      "model": "geoimmersion:block/cinnabercrystal",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "geoimmersion:block/cinnabercrystal",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "geoimmersion:block/cinnabercrystal",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "geoimmersion:block/cinnabercrystal",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "geoimmersion:block/cinnabercrystal",
+      "x": 90
+    }
+  }
+}

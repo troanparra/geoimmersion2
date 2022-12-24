@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "geoimmersion:textures/screens/granite.png",
+    "icon": {
+      "item": "geoimmersion:titaniumgeologisthammer"
+    },
+    "title": {
+      "translate": "advancements.geoimmersion.title"
+    },
+    "description": {
+      "translate": "advancements.geoimmersion.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "geoimmersion": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

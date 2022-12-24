@@ -1,0 +1,73 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 270,
+    "height": 190,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "BasaltButtonClicked"
+          },
+          "width": 9,
+          "height": 20,
+          "name": ".",
+          "x": 91,
+          "y": 182
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Image taken from \"didatico.igc.usp.br\"",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Image taken from \"didatico.igc.usp.br\"",
+          "x": 111,
+          "y": 191
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "126-basalto.400p.png",
+          "use1Xscale": true,
+          "name": "126-basalto.400p.png",
+          "x": 111,
+          "y": 46
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "OpenBasalt3"
+          },
+          "width": 10,
+          "height": 20,
+          "name": ".",
+          "x": 321,
+          "y": 181
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 10,
+      "ox": 1,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

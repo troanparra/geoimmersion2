@@ -1,0 +1,9 @@
+{
+  "parent": "geoimmersion:custom/pyrite_crystal",
+  "textures": {
+    "all": "geoimmersion:blocks/pyrite",
+    "particle": "geoimmersion:blocks/pyrite",
+    "0": "geoimmersion:blocks/limestone_bot",
+    "1": "geoimmersion:blocks/pyrite"
+  }
+}

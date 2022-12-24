@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "geoimmersion:block/upper_mantle_portal_ew"
+    },
+    "axis=x": {
+      "model": "geoimmersion:block/upper_mantle_portal_ns"
+    }
+  }
+}

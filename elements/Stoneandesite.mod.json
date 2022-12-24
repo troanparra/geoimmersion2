@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Andesite"
+      },
+      {
+        "value": "CUSTOM:Polishedandesite"
+      }
+    ],
+    "functions": [],
+    "name": "stone/andesite",
+    "namespace": "minecraft"
+  }
+}

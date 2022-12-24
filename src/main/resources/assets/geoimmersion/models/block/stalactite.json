@@ -1,0 +1,11 @@
+{
+  "parent": "geoimmersion:custom/estalactite",
+  "textures": {
+    "all": "geoimmersion:blocks/limestone_top",
+    "particle": "geoimmersion:blocks/limestone",
+    "0": "geoimmersion:blocks/limestone",
+    "1": "geoimmersion:blocks/limestone_top",
+    "2": "geoimmersion:blocks/limestone_bot",
+    "missing": "geoimmersion:blocks/"
+  }
+}

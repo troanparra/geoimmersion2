@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/gabbro_slab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/gabbro_slab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/gabbro_slab_full"
+    }
+  }
+}

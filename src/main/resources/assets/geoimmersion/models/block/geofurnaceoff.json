@@ -1,0 +1,8 @@
+{
+  "parent": "geoimmersion:custom/hdsmelt",
+  "textures": {
+    "all": "geoimmersion:blocks/hdsmelt_texture",
+    "particle": "geoimmersion:blocks/hdsmelt_texture",
+    "1": "geoimmersion:blocks/hdsmelt_texture"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/bif_topbot",
+    "up": "geoimmersion:blocks/bif_topbot",
+    "north": "geoimmersion:blocks/bif",
+    "east": "geoimmersion:blocks/bif",
+    "south": "geoimmersion:blocks/bif",
+    "west": "geoimmersion:blocks/bif",
+    "particle": "geoimmersion:blocks/bif_topbot"
+  }
+}

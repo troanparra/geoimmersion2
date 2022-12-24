@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/limestone_gravitybot",
+    "up": "geoimmersion:blocks/limestone_gravitytop",
+    "north": "geoimmersion:blocks/limestone_gravity",
+    "east": "geoimmersion:blocks/limestone_gravity",
+    "south": "geoimmersion:blocks/limestone_gravity",
+    "west": "geoimmersion:blocks/limestone_gravity",
+    "particle": "geoimmersion:blocks/limestone_gravitybot"
+  }
+}

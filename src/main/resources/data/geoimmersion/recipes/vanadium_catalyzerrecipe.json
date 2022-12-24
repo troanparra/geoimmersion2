@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "geoimmersion:vanadium"
+    },
+    "2": {
+      "item": "geoimmersion:vanadium"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:vanadium_catalyzer",
+    "count": 2
+  }
+}

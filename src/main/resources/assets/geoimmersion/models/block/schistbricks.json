@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/polished_schist_bricks",
+    "up": "geoimmersion:blocks/polished_schist_bricks",
+    "north": "geoimmersion:blocks/polished_schist_bricks",
+    "east": "geoimmersion:blocks/polished_schist_bricks",
+    "south": "geoimmersion:blocks/polished_schist_bricks",
+    "west": "geoimmersion:blocks/polished_schist_bricks",
+    "particle": "geoimmersion:blocks/polished_schist_bricks"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "geoimmersion:slate_tile"
+  },
+  "result": "geoimmersion:slate_tile_slab"
+}

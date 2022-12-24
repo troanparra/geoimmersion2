@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_block"
+    },
+    "1": {
+      "item": "minecraft:hopper"
+    },
+    "2": {
+      "item": "minecraft:diamond_block"
+    },
+    "3": {
+      "item": "geoimmersion:steel"
+    },
+    "4": {
+      "item": "geoimmersion:engineblock"
+    },
+    "5": {
+      "item": "geoimmersion:steel"
+    },
+    "6": {
+      "item": "geoimmersion:steel"
+    },
+    "7": {
+      "item": "geoimmersion:oilbarrel"
+    },
+    "8": {
+      "item": "geoimmersion:steel"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:mineralcentrifugue",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "geoimmersion:copperin_gabro"
+    }
+  ],
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 1
+  }
+}

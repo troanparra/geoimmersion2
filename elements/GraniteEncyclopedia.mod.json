@@ -1,0 +1,141 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 270,
+    "height": 190,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Granite",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Granite",
+          "x": 96,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "RocksButtonClicked"
+          },
+          "width": 9,
+          "height": 20,
+          "name": ".",
+          "x": 91,
+          "y": 182
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Granite is a light-colored intrusive igneous",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Granite is a light-colored intrusive igneous",
+          "x": 91,
+          "y": 68
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "rock formed by the slow cooling of silica-rich",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "rock formed by the slow cooling of silica-rich",
+          "x": 91,
+          "y": 87
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "magma. Because of the slow cooling, grains have",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "magma. Because of the slow cooling, grains have",
+          "x": 91,
+          "y": 106
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "more time to grow, becoming visible to the",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "more time to grow, becoming visible to the",
+          "x": 91,
+          "y": 125
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "naked eye. Most common rock on Earth's crust",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "naked eye. Most common rock on Earth's crust",
+          "x": 91,
+          "y": 144
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "and in the mod.",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "and in the mod.",
+          "x": 91,
+          "y": 163
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "OpenGranite2"
+          },
+          "width": 10,
+          "height": 20,
+          "name": ".",
+          "x": 321,
+          "y": 182
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 19,
+      "ox": 1,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

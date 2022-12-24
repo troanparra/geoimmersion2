@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "Carved Rocks",
+    "icon": {
+      "value": "CUSTOM:Polishedgranite"
+    },
+    "showSearch": false
+  }
+}

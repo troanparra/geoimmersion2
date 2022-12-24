@@ -1,0 +1,63 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 270,
+    "height": 190,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Vanadinite",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Vanadinite",
+          "x": 96,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "OpenMineral2"
+          },
+          "width": 9,
+          "height": 20,
+          "name": ".",
+          "x": 91,
+          "y": 182
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "OpenVanadinite2"
+          },
+          "width": 10,
+          "height": 20,
+          "name": ".",
+          "x": 321,
+          "y": 182
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 19,
+      "ox": 1,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

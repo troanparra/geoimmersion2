@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:vanadiumingot"
+    },
+    "1": {
+      "item": "geoimmersion:vanadiumingot"
+    },
+    "2": {
+      "item": "geoimmersion:vanadiumingot"
+    },
+    "3": {
+      "item": "geoimmersion:vanadiumingot"
+    },
+    "4": {
+      "item": "geoimmersion:vanadiumingot"
+    },
+    "5": {
+      "item": "geoimmersion:vanadiumingot"
+    },
+    "6": {
+      "item": "geoimmersion:vanadiumingot"
+    },
+    "7": {
+      "item": "geoimmersion:vanadiumingot"
+    },
+    "8": {
+      "item": "geoimmersion:vanadiumingot"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:vanadium",
+    "count": 1
+  }
+}

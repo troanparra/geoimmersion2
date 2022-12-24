@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "geoimmersion:polishedriolite"
+  },
+  "result": "geoimmersion:polished_riolite_stairs"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/transpa",
+    "up": "geoimmersion:blocks/transpa",
+    "north": "geoimmersion:blocks/transpa",
+    "east": "geoimmersion:blocks/transpa",
+    "south": "geoimmersion:blocks/transpa",
+    "west": "geoimmersion:blocks/transpa",
+    "particle": "geoimmersion:blocks/transpa"
+  }
+}

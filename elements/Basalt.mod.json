@@ -1,0 +1,253 @@
+{
+  "_fv": 34,
+  "_type": "block",
+  "definition": {
+    "texture": "basalt_left",
+    "textureTop": "basalt_left",
+    "textureLeft": "basalt_left",
+    "textureFront": "basalt_left",
+    "textureRight": "basalt_left",
+    "textureBack": "basalt_left",
+    "renderType": 10,
+    "customModelName": "Normal",
+    "rotationMode": 0,
+    "enablePitch": false,
+    "emissiveRendering": false,
+    "displayFluidOverlay": false,
+    "itemTexture": "",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "hasTransparency": false,
+    "connectedSides": false,
+    "transparencyType": "SOLID",
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 0.0,
+        "my": 0.0,
+        "mz": 0.0,
+        "Mx": 16.0,
+        "My": 16.0,
+        "Mz": 16.0,
+        "subtract": false
+      }
+    ],
+    "name": "Basalt",
+    "specialInfo": [],
+    "hardness": 2.5,
+    "resistance": 2.5,
+    "hasGravity": false,
+    "isWaterloggable": false,
+    "creativeTab": {
+      "value": "CUSTOM:GeoimmersionRocks"
+    },
+    "destroyTool": "pickaxe",
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "useLootTableForDrops": false,
+    "requiresCorrectTool": true,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canRedstoneConnect": false,
+    "lightOpacity": 15,
+    "material": {
+      "value": "ROCK"
+    },
+    "tickRate": 10,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "canProvidePower": false,
+    "emittedRedstonePower": {
+      "fixedValue": 15.0
+    },
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "NONE",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "speedFactor": 1.0,
+    "jumpFactor": 1.0,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "STONE"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "luminance": 0,
+    "unbreakable": false,
+    "breakHarvestLevel": 2,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:Magmadrop"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "hasInventory": false,
+    "guiBoundTo": "<NONE>",
+    "openGUIOnRightClick": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "inventoryInSlotIDs": [],
+    "hasEnergyStorage": false,
+    "energyInitial": 0,
+    "energyCapacity": 400000,
+    "energyMaxReceive": 200,
+    "energyMaxExtract": 200,
+    "isFluidTank": false,
+    "fluidCapacity": 8000,
+    "fluidRestrictions": [],
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Volcanicterrain"
+      },
+      {
+        "value": "cold_ocean"
+      },
+      {
+        "value": "deep_cold_ocean"
+      },
+      {
+        "value": "deep_frozen_ocean"
+      },
+      {
+        "value": "deep_lukewarm_ocean"
+      },
+      {
+        "value": "deep_ocean"
+      },
+      {
+        "value": "deep_warm_ocean"
+      },
+      {
+        "value": "frozen_ocean"
+      },
+      {
+        "value": "lukewarm_ocean"
+      },
+      {
+        "value": "ocean"
+      },
+      {
+        "value": "warm_ocean"
+      }
+    ],
+    "blocksToReplace": [
+      {
+        "value": "Blocks.STONE"
+      },
+      {
+        "value": "CUSTOM:Granite"
+      },
+      {
+        "value": "CUSTOM:Andesite"
+      },
+      {
+        "value": "CUSTOM:Limestone"
+      },
+      {
+        "value": "CUSTOM:GravityLimestone"
+      },
+      {
+        "value": "CUSTOM:Metalimestone"
+      },
+      {
+        "value": "CUSTOM:Sandstone"
+      },
+      {
+        "value": "CUSTOM:Metasandstone"
+      },
+      {
+        "value": "CUSTOM:Marble"
+      },
+      {
+        "value": "CUSTOM:Quartizite"
+      },
+      {
+        "value": "CUSTOM:Riolite"
+      },
+      {
+        "value": "CUSTOM:Gnaisse"
+      },
+      {
+        "value": "CUSTOM:BandedIronFormation"
+      },
+      {
+        "value": "CUSTOM:Kimberlite"
+      },
+      {
+        "value": "CUSTOM:Slate"
+      },
+      {
+        "value": "CUSTOM:Sulfurrock"
+      },
+      {
+        "value": "CUSTOM:Schist"
+      },
+      {
+        "value": "CUSTOM:Quartizitewithgolddust"
+      },
+      {
+        "value": "CUSTOM:Quartizitewithgoldnuggets"
+      },
+      {
+        "value": "CUSTOM:Quartizitewithhugegoldnugget"
+      },
+      {
+        "value": "CUSTOM:Coalonlimestone"
+      },
+      {
+        "value": "CUSTOM:CoalonMetalimestone"
+      },
+      {
+        "value": "CUSTOM:CoalonSandstone"
+      },
+      {
+        "value": "CUSTOM:Travertine"
+      },
+      {
+        "value": "CUSTOM:CasseteriteonGranite"
+      },
+      {
+        "value": "CUSTOM:GravitySandstone"
+      }
+    ],
+    "generationShape": "UNIFORM",
+    "frequencyPerChunks": 64,
+    "frequencyOnChunk": 64,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 128,
+    "generateCondition": {
+      "name": "BasaltAdditionalGenerationCondition"
+    }
+  }
+}

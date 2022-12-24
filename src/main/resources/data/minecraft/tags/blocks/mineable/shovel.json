@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "geoimmersion:bauxite",
+    "geoimmersion:sodium_nitrate_block",
+    "geoimmersion:potassium_chloride_block",
+    "geoimmersion:volcanicash",
+    "geoimmersion:volcanictuff",
+    "geoimmersion:softsnow",
+    "geoimmersion:red_soil",
+    "geoimmersion:contaminateddirt",
+    "geoimmersion:red_soil_grass"
+  ]
+}

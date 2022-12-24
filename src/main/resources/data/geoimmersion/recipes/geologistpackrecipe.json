@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:aluminium"
+    },
+    "1": {
+      "item": "geoimmersion:stitchedleather"
+    },
+    "3": {
+      "item": "geoimmersion:stitchedleather"
+    },
+    "4": {
+      "item": "geoimmersion:stitchedleather"
+    },
+    "5": {
+      "item": "geoimmersion:stitchedleather"
+    },
+    "7": {
+      "item": "geoimmersion:stitchedleather"
+    },
+    "8": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:geologistpack",
+    "count": 1
+  }
+}

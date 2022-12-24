@@ -1,0 +1,30 @@
+{
+  "_fv": 34,
+  "_type": "structure",
+  "definition": {
+    "structure": "greek_ruins_lootchest",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 4000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -3,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Volcanicash"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Rioliticterrain"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

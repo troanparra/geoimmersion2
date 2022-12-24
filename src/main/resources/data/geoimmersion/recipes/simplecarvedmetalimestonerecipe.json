@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "geoimmersion:metalimestone"
+  },
+  "result": "geoimmersion:carvedlimestone_3"
+}

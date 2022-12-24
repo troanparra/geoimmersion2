@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "geoimmersion:platinum_ingot"
+    },
+    {
+      "item": "geoimmersion:platinum_ingot"
+    }
+  ],
+  "result": {
+    "item": "geoimmersion:platinum_catalyzer",
+    "count": 1
+  }
+}

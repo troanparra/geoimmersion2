@@ -1,0 +1,203 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 270,
+    "height": 190,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Geoimmersion Encyclopedia: Minerals",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Geoimmersion Encyclopedia: Minerals",
+          "x": 96,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "MineralButtonClicked"
+          },
+          "width": 9,
+          "height": 20,
+          "name": ".",
+          "x": 96,
+          "y": 182
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Casseterite",
+          "onClick": {
+            "name": "CasseteriteButtonClicked"
+          },
+          "width": 82,
+          "height": 20,
+          "name": "Casseterite",
+          "x": 172,
+          "y": 106
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Vanadinite",
+          "onClick": {
+            "name": "VanadiniteButtonClicked"
+          },
+          "width": 77,
+          "height": 20,
+          "name": "Vanadinite",
+          "x": 172,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Spodumene",
+          "onClick": {
+            "name": "SpodumeneButtonClicked"
+          },
+          "width": 72,
+          "height": 20,
+          "name": "Spodumene",
+          "x": 258,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Magnetite",
+          "onClick": {
+            "name": "MagnetiteButtonClicked"
+          },
+          "width": 72,
+          "height": 20,
+          "name": "Magnetite",
+          "x": 96,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Cinnaber",
+          "onClick": {
+            "name": "CinnaberButtonClicked"
+          },
+          "width": 67,
+          "height": 20,
+          "name": "Cinnaber",
+          "x": 96,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Calcite",
+          "onClick": {
+            "name": "CalciteButtonClicked"
+          },
+          "width": 61,
+          "height": 20,
+          "name": "Calcite",
+          "x": 182,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Osmium Tetroxide",
+          "onClick": {
+            "name": "OsmiumTetroxiteButtonClicked"
+          },
+          "width": 108,
+          "height": 20,
+          "name": "Osmium Tetroxide",
+          "x": 153,
+          "y": 163
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Pyrite",
+          "onClick": {
+            "name": "PyriteButtonClicked"
+          },
+          "width": 56,
+          "height": 20,
+          "name": "Pyrite",
+          "x": 267,
+          "y": 106
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Fluorite",
+          "onClick": {
+            "name": "FluoriteButtonClicked"
+          },
+          "width": 67,
+          "height": 20,
+          "name": "Fluorite",
+          "x": 96,
+          "y": 106
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Torbernite",
+          "onClick": {
+            "name": "TorbeniteButtonClicked"
+          },
+          "width": 77,
+          "height": 20,
+          "name": "Torbernite",
+          "x": 258,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "OpenMineral3"
+          },
+          "width": 9,
+          "height": 20,
+          "name": ".",
+          "x": 324,
+          "y": 182
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 19,
+      "sy": 19,
+      "ox": 1,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

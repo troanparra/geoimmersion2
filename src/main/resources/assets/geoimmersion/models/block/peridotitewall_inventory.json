@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "geoimmersion:blocks/peridotite",
+    "particle": "geoimmersion:blocks/peridotite"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "mineral_table"
+      },
+      "name": "default"
+    }
+  }
+}

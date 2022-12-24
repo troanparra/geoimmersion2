@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 10,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "geoimmersion:titaniummagnetirein_gabro"
+  },
+  "result": "geoimmersion:titanium_ingot"
+}

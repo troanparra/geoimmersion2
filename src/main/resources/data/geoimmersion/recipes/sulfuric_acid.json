@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:sulfur"
+    },
+    "1": {
+      "item": "geoimmersion:vanadium_catalyzer"
+    },
+    "2": {
+      "item": "geoimmersion:sulfur"
+    },
+    "3": {
+      "item": "geoimmersion:sulfur"
+    },
+    "4": {
+      "item": "geoimmersion:erlenmeyerwithwater"
+    },
+    "5": {
+      "item": "geoimmersion:sulfur"
+    },
+    "6": {
+      "item": "geoimmersion:sulfur"
+    },
+    "7": {
+      "item": "geoimmersion:sulfur"
+    },
+    "8": {
+      "item": "geoimmersion:sulfur"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:sulfuric_acid_erlenmeyer",
+    "count": 2
+  }
+}

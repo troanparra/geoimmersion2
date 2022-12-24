@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "geoimmersion:iron_geologist_hammer"
+    },
+    {
+      "item": "geoimmersion:andesite"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 1
+  }
+}

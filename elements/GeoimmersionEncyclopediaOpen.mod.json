@@ -1,0 +1,12 @@
+{
+  "_fv": 34,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "Y",
+    "keyBindingName": "Geoimmersion Encyclopedia Open",
+    "keyBindingCategoryKey": "ui",
+    "onKeyPressed": {
+      "name": "GeoimmersionEncyclopediaOpenOnKeyPressed"
+    }
+  }
+}

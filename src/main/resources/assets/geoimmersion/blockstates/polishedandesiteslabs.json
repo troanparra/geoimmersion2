@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/polishedandesiteslabs"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/polishedandesiteslabs_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/polishedandesiteslabs_full"
+    }
+  }
+}

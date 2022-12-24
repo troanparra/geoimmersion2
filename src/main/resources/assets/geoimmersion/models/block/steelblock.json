@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/steel_block",
+    "up": "geoimmersion:blocks/steel_block",
+    "north": "geoimmersion:blocks/steel_block",
+    "east": "geoimmersion:blocks/steel_block",
+    "south": "geoimmersion:blocks/steel_block",
+    "west": "geoimmersion:blocks/steel_block",
+    "particle": "geoimmersion:blocks/steel_block"
+  }
+}

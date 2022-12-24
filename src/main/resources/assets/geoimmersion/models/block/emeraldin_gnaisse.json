@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/gnaiss_emerald",
+    "up": "geoimmersion:blocks/gnaiss_emerald",
+    "north": "geoimmersion:blocks/gnaiss_emerald",
+    "east": "geoimmersion:blocks/gnaiss_emerald",
+    "south": "geoimmersion:blocks/gnaiss_emerald",
+    "west": "geoimmersion:blocks/gnaiss_emerald",
+    "particle": "geoimmersion:blocks/gnaiss_emerald"
+  }
+}

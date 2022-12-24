@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "geoimmersion:burnedwood",
+    "geoimmersion:mineraltable",
+    "geoimmersion:yellow_ipe_log",
+    "geoimmersion:yellow_ipe_wood",
+    "geoimmersion:yellow_ipe_planks"
+  ]
+}

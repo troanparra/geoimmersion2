@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/polished_andesite",
+    "up": "geoimmersion:blocks/polished_andesite",
+    "north": "geoimmersion:blocks/polished_andesite",
+    "east": "geoimmersion:blocks/polished_andesite",
+    "south": "geoimmersion:blocks/polished_andesite",
+    "west": "geoimmersion:blocks/polished_andesite",
+    "particle": "geoimmersion:blocks/polished_andesite"
+  }
+}

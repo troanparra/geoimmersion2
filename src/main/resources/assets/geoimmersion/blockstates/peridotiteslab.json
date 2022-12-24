@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/peridotiteslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/peridotiteslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/peridotiteslab_full"
+    }
+  }
+}

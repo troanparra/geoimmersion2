@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "geoimmersion:block/slate_tile"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/polishedgabbroslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/polishedgabbroslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/polishedgabbroslab_full"
+    }
+  }
+}

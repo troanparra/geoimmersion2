@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "geoimmersion:sandstone"
+    },
+    "title": {
+      "translate": "advancements.sandstone_page.title"
+    },
+    "description": {
+      "translate": "advancements.sandstone_page.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "sandstone_page": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "geoimmersion:sandstone"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "geoimmersion:sedimentary"
+}

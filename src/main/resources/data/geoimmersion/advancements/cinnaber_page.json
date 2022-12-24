@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "geoimmersion:cinnaber"
+    },
+    "title": {
+      "translate": "advancements.cinnaber_page.title"
+    },
+    "description": {
+      "translate": "advancements.cinnaber_page.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "cinnaber_page": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "geoimmersion:cinnaber"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "geoimmersion:first_cobblestone"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "geoimmersion:blocks/gabbro",
+    "top": "geoimmersion:blocks/gabbro",
+    "side": "geoimmersion:blocks/gabbro"
+  }
+}

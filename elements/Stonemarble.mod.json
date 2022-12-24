@@ -1,0 +1,50 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Marble"
+      },
+      {
+        "value": "CUSTOM:LapisLazuliinMarble"
+      },
+      {
+        "value": "CUSTOM:PolishedMarble"
+      },
+      {
+        "value": "CUSTOM:Marblepillar"
+      },
+      {
+        "value": "CUSTOM:Marblepillarbase"
+      },
+      {
+        "value": "CUSTOM:Marblepillartop"
+      },
+      {
+        "value": "CUSTOM:Marblebricks"
+      },
+      {
+        "value": "CUSTOM:Carvedmarble1"
+      },
+      {
+        "value": "CUSTOM:Caverdmarble2"
+      },
+      {
+        "value": "CUSTOM:Carvedmarble3"
+      },
+      {
+        "value": "CUSTOM:Carvedmarble4"
+      },
+      {
+        "value": "CUSTOM:CarvedMarble5"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "stone/marble",
+    "namespace": "forge"
+  }
+}

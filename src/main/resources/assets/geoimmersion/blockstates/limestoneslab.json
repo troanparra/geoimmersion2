@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/limestoneslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/limestoneslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/limestoneslab_full"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 34,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "aluminum_bow2",
+    "customModelName": "Normal",
+    "name": "Aluminum Bow",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:GeoimmersionTools"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Aluminumarrow"
+    },
+    "shootConstantly": false,
+    "usageCount": 200,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.1,
+    "bulletDamage": 5.5,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Aluminumarrow"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "arrow.png"
+  }
+}

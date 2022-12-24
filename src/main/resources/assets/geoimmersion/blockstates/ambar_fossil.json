@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "geoimmersion:block/ambar_fossil"
+    },
+    "facing=east": {
+      "model": "geoimmersion:block/ambar_fossil",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "geoimmersion:block/ambar_fossil",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "geoimmersion:block/ambar_fossil",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "geoimmersion:block/ambar_fossil",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "geoimmersion:block/ambar_fossil",
+      "x": 90
+    }
+  }
+}

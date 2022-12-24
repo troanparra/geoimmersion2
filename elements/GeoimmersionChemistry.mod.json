@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "Geoimmersion Chemistry",
+    "icon": {
+      "value": "CUSTOM:Erlenmeyer"
+    },
+    "showSearch": false
+  }
+}

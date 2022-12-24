@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "geoimmersion:apatite"
+    },
+    "title": {
+      "translate": "advancements.apatite_page.title"
+    },
+    "description": {
+      "translate": "advancements.apatite_page.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "apatite_page": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "geoimmersion:apatite"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "geoimmersion:first_cobblestone"
+}

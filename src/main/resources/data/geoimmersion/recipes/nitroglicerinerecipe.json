@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "geoimmersion:glicerol"
+    },
+    {
+      "item": "geoimmersion:nitricacid"
+    },
+    {
+      "item": "geoimmersion:sulfuric_acid_erlenmeyer"
+    }
+  ],
+  "result": {
+    "item": "geoimmersion:nitroglicerine",
+    "count": 1
+  }
+}

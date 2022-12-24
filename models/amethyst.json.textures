@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "amethist",
+        "missing": "amethist"
+      },
+      "name": "default"
+    }
+  }
+}

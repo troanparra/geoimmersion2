@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/granite_fluorite",
+    "up": "geoimmersion:blocks/granite_fluorite",
+    "north": "geoimmersion:blocks/granite_fluorite",
+    "east": "geoimmersion:blocks/granite_fluorite",
+    "south": "geoimmersion:blocks/granite_fluorite",
+    "west": "geoimmersion:blocks/granite_fluorite",
+    "particle": "geoimmersion:blocks/granite_fluorite"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/andesitebricksslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/andesitebricksslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/andesitebricksslab_full"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "geoimmersion:blocks/polished_diabase",
+    "particle": "geoimmersion:blocks/polished_diabase"
+  }
+}

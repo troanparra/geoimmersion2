@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "geoimmersion:blocks/slate_tile",
+    "top": "geoimmersion:blocks/slate_tile",
+    "side": "geoimmersion:blocks/slate_tile"
+  }
+}

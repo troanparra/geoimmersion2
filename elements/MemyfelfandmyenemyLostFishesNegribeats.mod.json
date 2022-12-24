@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "\"me, myself, and my enemy (Lost Fishes)  - Negribeats",
+    "texture": "lost_fishesv2",
+    "description": "\"me, myself, and my enemy\" (Lost Fishes)  - Negribeats",
+    "creativeTab": {
+      "value": "CUSTOM:GeoimmersionMiscellaneous"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:me_myself_and_my_enemy"
+    },
+    "lengthInTicks": 0,
+    "analogOutput": 0
+  }
+}

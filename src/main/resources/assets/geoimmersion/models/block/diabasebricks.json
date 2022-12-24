@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/diabase_bricks",
+    "up": "geoimmersion:blocks/diabase_bricks",
+    "north": "geoimmersion:blocks/diabase_bricks",
+    "east": "geoimmersion:blocks/diabase_bricks",
+    "south": "geoimmersion:blocks/diabase_bricks",
+    "west": "geoimmersion:blocks/diabase_bricks",
+    "particle": "geoimmersion:blocks/diabase_bricks"
+  }
+}

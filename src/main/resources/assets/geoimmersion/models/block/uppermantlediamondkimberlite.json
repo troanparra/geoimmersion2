@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/kimberlite_diamond",
+    "up": "geoimmersion:blocks/kimberlite_diamond",
+    "north": "geoimmersion:blocks/kimberlite_diamond",
+    "east": "geoimmersion:blocks/kimberlite_diamond",
+    "south": "geoimmersion:blocks/kimberlite_diamond",
+    "west": "geoimmersion:blocks/kimberlite_diamond",
+    "particle": "geoimmersion:blocks/kimberlite_diamond"
+  }
+}

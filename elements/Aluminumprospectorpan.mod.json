@@ -1,0 +1,44 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "aluminum_prospector_pan",
+    "customModelName": "Normal",
+    "name": "Aluminum Prospector's Pan",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:GeoimmersionTools"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 0.5,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 100,
+    "blocksAffected": [
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Blocks.SAND#1"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Aluminium"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "AluminumprospectorpanBlockDestroyedWithTool"
+    }
+  }
+}

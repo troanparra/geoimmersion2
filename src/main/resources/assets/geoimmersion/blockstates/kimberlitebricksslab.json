@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/kimberlitebricksslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/kimberlitebricksslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/kimberlitebricksslab_full"
+    }
+  }
+}

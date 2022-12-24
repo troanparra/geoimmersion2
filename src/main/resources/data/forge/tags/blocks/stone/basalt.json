@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "geoimmersion:columnarbasalt",
+    "geoimmersion:basaltbricks",
+    "geoimmersion:polishedbasalt",
+    "geoimmersion:basalt"
+  ]
+}

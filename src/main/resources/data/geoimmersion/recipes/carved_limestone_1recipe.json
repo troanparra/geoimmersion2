@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "geoimmersion:carvedlimestone_1"
+  },
+  "result": "geoimmersion:polished_limestone_stairs"
+}

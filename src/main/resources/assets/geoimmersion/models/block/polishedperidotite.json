@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/polished_peridotite",
+    "up": "geoimmersion:blocks/polished_peridotite",
+    "north": "geoimmersion:blocks/polished_peridotite",
+    "east": "geoimmersion:blocks/polished_peridotite",
+    "south": "geoimmersion:blocks/polished_peridotite",
+    "west": "geoimmersion:blocks/polished_peridotite",
+    "particle": "geoimmersion:blocks/polished_peridotite"
+  }
+}

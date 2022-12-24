@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/glaciericeslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/glaciericeslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/glaciericeslab_full"
+    }
+  }
+}

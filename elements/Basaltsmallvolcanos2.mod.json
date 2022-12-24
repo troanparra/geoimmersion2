@@ -1,0 +1,30 @@
+{
+  "_fv": 34,
+  "_type": "structure",
+  "definition": {
+    "structure": "basalt_small_volcano2",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 30000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 2,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -11,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Basalt"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Volcanicterrain"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

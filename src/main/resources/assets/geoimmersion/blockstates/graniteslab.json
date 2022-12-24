@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/graniteslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/graniteslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/graniteslab_full"
+    }
+  }
+}

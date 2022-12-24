@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:aluminium"
+    },
+    "2": {
+      "item": "geoimmersion:aluminium"
+    },
+    "3": {
+      "item": "geoimmersion:aluminium"
+    },
+    "5": {
+      "item": "geoimmersion:aluminium"
+    },
+    "7": {
+      "item": "geoimmersion:aluminium"
+    }
+  },
+  "result": {
+    "item": "minecraft:bucket",
+    "count": 1
+  }
+}

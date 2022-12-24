@@ -1,0 +1,21 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [
+      {
+        "value": "CUSTOM:PlatinuminGabro"
+      }
+    ],
+    "blocks": [
+      {
+        "value": "CUSTOM:PlatinuminGabro"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "ores/platinum",
+    "namespace": "forge"
+  }
+}

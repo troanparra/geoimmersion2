@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:nobelsthrowabledynamite"
+    },
+    "1": {
+      "item": "minecraft:sand"
+    },
+    "2": {
+      "item": "geoimmersion:nobelsthrowabledynamite"
+    },
+    "3": {
+      "item": "minecraft:sand"
+    },
+    "4": {
+      "item": "geoimmersion:nobelsthrowabledynamite"
+    },
+    "5": {
+      "item": "minecraft:sand"
+    },
+    "6": {
+      "item": "geoimmersion:nobelsthrowabledynamite"
+    },
+    "7": {
+      "item": "minecraft:sand"
+    },
+    "8": {
+      "item": "geoimmersion:nobelsthrowabledynamite"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:nobels_dynamite",
+    "count": 1
+  }
+}

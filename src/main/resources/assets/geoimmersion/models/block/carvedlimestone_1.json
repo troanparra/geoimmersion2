@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/limestone_carvedplain",
+    "up": "geoimmersion:blocks/limestone_carvedplain",
+    "north": "geoimmersion:blocks/limestone_carvedplain",
+    "east": "geoimmersion:blocks/limestone_carvedplain",
+    "south": "geoimmersion:blocks/limestone_carvedplain",
+    "west": "geoimmersion:blocks/limestone_carvedplain",
+    "particle": "geoimmersion:blocks/limestone_carvedplain"
+  }
+}

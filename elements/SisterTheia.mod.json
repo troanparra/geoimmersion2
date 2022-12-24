@@ -1,0 +1,23 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Sister Theia - Troan Parra",
+    "texture": "sister_theiav2",
+    "description": "Sister Theia - Troan Parra",
+    "creativeTab": {
+      "value": "CUSTOM:GeoimmersionMiscellaneous"
+    },
+    "specialInfo": [
+      "Earth was a molten rock and had a sister",
+      "Theia.",
+      "Theia collapse into earth on a interplanetary fight, then Earth and Theia debris formed Moon . So Earth cried about her sister death creating the first oceans."
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:sister_theia"
+    },
+    "lengthInTicks": 0,
+    "analogOutput": 0
+  }
+}

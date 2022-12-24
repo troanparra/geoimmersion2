@@ -1,0 +1,20 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:Polishedandesite"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:Polishedandesitewall"
+    },
+    "name": "polished_andesitewallrecipe",
+    "namespace": "mod"
+  }
+}

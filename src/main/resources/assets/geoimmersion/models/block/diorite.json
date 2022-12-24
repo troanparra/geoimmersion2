@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/diorite",
+    "up": "geoimmersion:blocks/diorite",
+    "north": "geoimmersion:blocks/diorite",
+    "east": "geoimmersion:blocks/diorite",
+    "south": "geoimmersion:blocks/diorite",
+    "west": "geoimmersion:blocks/diorite",
+    "particle": "geoimmersion:blocks/diorite"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "geoimmersion:polishedschist"
+  },
+  "result": "geoimmersion:schistslab"
+}

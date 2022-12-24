@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/travertineslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/travertineslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/travertineslab_full"
+    }
+  }
+}

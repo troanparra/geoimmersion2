@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/granite_cassiterite",
+    "up": "geoimmersion:blocks/granite_cassiterite",
+    "north": "geoimmersion:blocks/granite_cassiterite",
+    "east": "geoimmersion:blocks/granite_cassiterite",
+    "south": "geoimmersion:blocks/granite_cassiterite",
+    "west": "geoimmersion:blocks/granite_cassiterite",
+    "particle": "geoimmersion:blocks/granite_cassiterite"
+  }
+}

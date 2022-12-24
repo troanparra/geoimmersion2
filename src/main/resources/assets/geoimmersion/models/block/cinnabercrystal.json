@@ -1,0 +1,9 @@
+{
+  "parent": "geoimmersion:custom/cinnabar_crystal",
+  "textures": {
+    "all": "geoimmersion:blocks/cinnabar",
+    "particle": "geoimmersion:blocks/cinnabar",
+    "0": "geoimmersion:blocks/basalt_left",
+    "1": "geoimmersion:blocks/cinnabar"
+  }
+}

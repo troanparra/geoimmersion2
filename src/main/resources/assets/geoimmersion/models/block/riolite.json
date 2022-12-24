@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/rhyolite",
+    "up": "geoimmersion:blocks/rhyolite",
+    "north": "geoimmersion:blocks/rhyolite",
+    "east": "geoimmersion:blocks/rhyolite",
+    "south": "geoimmersion:blocks/rhyolite",
+    "west": "geoimmersion:blocks/rhyolite",
+    "particle": "geoimmersion:blocks/rhyolite"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/travertine"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/travertine_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/travertine_full"
+    }
+  }
+}

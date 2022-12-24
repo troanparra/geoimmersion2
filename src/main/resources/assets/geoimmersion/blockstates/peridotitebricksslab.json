@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/peridotitebricksslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/peridotitebricksslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/peridotitebricksslab_full"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/sandstone_silicified",
+    "up": "geoimmersion:blocks/sandstone_silicified",
+    "north": "geoimmersion:blocks/sandstone_silicified",
+    "east": "geoimmersion:blocks/sandstone_silicified",
+    "south": "geoimmersion:blocks/sandstone_silicified",
+    "west": "geoimmersion:blocks/sandstone_silicified",
+    "particle": "geoimmersion:blocks/sandstone_silicified"
+  }
+}

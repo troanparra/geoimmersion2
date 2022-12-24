@@ -1,0 +1,91 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 270,
+    "height": 190,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Geoimmersion Encyclopedia: Minerals",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Geoimmersion Encyclopedia: Minerals",
+          "x": 96,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "OpenMineral2"
+          },
+          "width": 9,
+          "height": 20,
+          "name": ".",
+          "x": 96,
+          "y": 182
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Wolframite",
+          "onClick": {
+            "name": "WolframiteButtonClicked"
+          },
+          "width": 77,
+          "height": 20,
+          "name": "Wolframite",
+          "x": 220,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Sphalerite",
+          "onClick": {
+            "name": "SphaleriteButtonClicked"
+          },
+          "width": 77,
+          "height": 20,
+          "name": "Sphalerite",
+          "x": 125,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Galena",
+          "onClick": {
+            "name": "GalenaButtonClicked"
+          },
+          "width": 56,
+          "height": 20,
+          "name": "Galena",
+          "x": 182,
+          "y": 106
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 19,
+      "sy": 19,
+      "ox": 1,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

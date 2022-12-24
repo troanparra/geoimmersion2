@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "geoimmersion:carvedsandstone_2",
+    "geoimmersion:carvedsandstone_1",
+    "geoimmersion:polishedsandstonebricks",
+    "geoimmersion:carvedsandstone_6",
+    "geoimmersion:carvedsandstone_5",
+    "geoimmersion:carvedsandstone_4",
+    "geoimmersion:carvedsandstone_3",
+    "geoimmersion:metasandstone",
+    "geoimmersion:gravity_sandstone",
+    "geoimmersion:polishedsandstone",
+    "geoimmersion:sandstone",
+    "geoimmersion:coalin_metasandstone",
+    "geoimmersion:coalon_sandstone",
+    "geoimmersion:simplecarvedsandstone_1"
+  ]
+}

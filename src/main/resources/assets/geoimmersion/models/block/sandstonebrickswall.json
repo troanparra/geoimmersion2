@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "geoimmersion:blocks/sandstone_bricks",
+    "particle": "geoimmersion:blocks/sandstone_bricks"
+  }
+}

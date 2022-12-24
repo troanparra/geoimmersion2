@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/basaltslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/basaltslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/basaltslab_full"
+    }
+  }
+}

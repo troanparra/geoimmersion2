@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/metalimestone_topbot",
+    "up": "geoimmersion:blocks/metalimestone_topbot",
+    "north": "geoimmersion:blocks/metalimestone",
+    "east": "geoimmersion:blocks/metalimestone",
+    "south": "geoimmersion:blocks/metalimestone",
+    "west": "geoimmersion:blocks/metalimestone",
+    "particle": "geoimmersion:blocks/metalimestone_topbot"
+  }
+}

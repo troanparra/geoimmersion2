@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "geoimmersion:blocks/polished_schist_bricks",
+    "top": "geoimmersion:blocks/polished_schist_bricks",
+    "side": "geoimmersion:blocks/polished_schist_bricks"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "geoimmersion:oil",
+    "geoimmersion:flowing_oil",
+    "geoimmersion:volcanoash",
+    "geoimmersion:flowing_volcanoash"
+  ]
+}

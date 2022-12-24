@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/petrified_wood_top_bottom",
+    "up": "geoimmersion:blocks/petrified_wood_top_bottom",
+    "north": "geoimmersion:blocks/petrified_wood_side",
+    "east": "geoimmersion:blocks/petrified_wood_side",
+    "south": "geoimmersion:blocks/petrified_wood_side",
+    "west": "geoimmersion:blocks/petrified_wood_side",
+    "particle": "geoimmersion:blocks/petrified_wood_top_bottom"
+  }
+}

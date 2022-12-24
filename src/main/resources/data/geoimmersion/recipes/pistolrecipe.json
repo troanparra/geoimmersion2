@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23"
+  ],
+  "key": {
+    "1": {
+      "item": "geoimmersion:pistolhammer"
+    },
+    "2": {
+      "item": "geoimmersion:pistolbarrel"
+    },
+    "3": {
+      "item": "geoimmersion:handgrip"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:pistol",
+    "count": 1
+  }
+}

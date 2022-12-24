@@ -1,0 +1,26 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Basalt"
+      },
+      {
+        "value": "CUSTOM:Columnarbasalt"
+      },
+      {
+        "value": "CUSTOM:Polishedbasalt"
+      },
+      {
+        "value": "CUSTOM:Basaltbricks"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "stone/basalt",
+    "namespace": "forge"
+  }
+}

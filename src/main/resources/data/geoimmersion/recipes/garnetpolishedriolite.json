@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "geoimmersion:garnetsandpaper"
+    },
+    {
+      "item": "geoimmersion:riolite"
+    }
+  ],
+  "result": {
+    "item": "geoimmersion:polishedriolite",
+    "count": 1
+  }
+}

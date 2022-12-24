@@ -1,0 +1,7 @@
+{
+  "_fv": 34,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"event_trigger\" x=\"-224\" y=\"64\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"controls_if\"><value name=\"IF0\"><block type=\"world_data_biomeat_tag\"><value name=\"x\"><block type=\"coord_x\"/></value><value name=\"y\"><block type=\"coord_y\"/></value><value name=\"z\"><block type=\"coord_z\"/></value><value name=\"tag\"><block type=\"text\"><field name=\"TEXT\">minecraft:has_structure/village_plains</field></block></value></block></value><statement name=\"DO0\"><block type=\"return_logic\"><value name=\"return\"><block type=\"logic_boolean\"><field name=\"BOOL\">FALSE</field></block></value></block></statement><next><block type=\"return_logic\"><value name=\"return\"><block type=\"logic_boolean\"><field name=\"BOOL\">FALSE</field></block></value></block></next></block></next></block><block type=\"logic_binary_ops\" x=\"-102\" y=\"104\"><field name=\"OP\">NEQ</field></block><block type=\"world_data_biomeat\" x=\"28\" y=\"245\"><field name=\"biome\"/><value name=\"x\"><block type=\"coord_x\"/></value><value name=\"y\"><block type=\"coord_y\"/></value><value name=\"z\"><block type=\"coord_z\"/></value></block></xml>"
+  }
+}

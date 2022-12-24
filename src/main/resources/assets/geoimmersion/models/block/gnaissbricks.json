@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/gnaiss_polished_bricks",
+    "up": "geoimmersion:blocks/gnaiss_polished_bricks",
+    "north": "geoimmersion:blocks/gnaiss_polished_bricks",
+    "east": "geoimmersion:blocks/gnaiss_polished_bricks",
+    "south": "geoimmersion:blocks/gnaiss_polished_bricks",
+    "west": "geoimmersion:blocks/gnaiss_polished_bricks",
+    "particle": "geoimmersion:blocks/gnaiss_polished_bricks"
+  }
+}

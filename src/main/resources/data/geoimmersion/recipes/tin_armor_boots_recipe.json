@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:tiningot"
+    },
+    "2": {
+      "item": "geoimmersion:tiningot"
+    },
+    "3": {
+      "item": "geoimmersion:tiningot"
+    },
+    "5": {
+      "item": "geoimmersion:tiningot"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:tin_armor_boots",
+    "count": 1
+  }
+}

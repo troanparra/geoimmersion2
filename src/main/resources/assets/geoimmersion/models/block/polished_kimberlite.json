@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/polished_kimberlite",
+    "up": "geoimmersion:blocks/polished_kimberlite",
+    "north": "geoimmersion:blocks/polished_kimberlite",
+    "east": "geoimmersion:blocks/polished_kimberlite",
+    "south": "geoimmersion:blocks/polished_kimberlite",
+    "west": "geoimmersion:blocks/polished_kimberlite",
+    "particle": "geoimmersion:blocks/polished_kimberlite"
+  }
+}

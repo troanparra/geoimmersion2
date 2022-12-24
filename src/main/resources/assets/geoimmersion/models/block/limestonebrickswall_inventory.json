@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "geoimmersion:blocks/limestone_bricks",
+    "particle": "geoimmersion:blocks/limestone_bricks"
+  }
+}

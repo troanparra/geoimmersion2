@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/diabasebricksslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/diabasebricksslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/diabasebricksslab_full"
+    }
+  }
+}

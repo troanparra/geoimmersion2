@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "geoimmersion:empty_miner_helmet_helmet"
+    },
+    {
+      "item": "geoimmersion:carbide"
+    },
+    {
+      "item": "geoimmersion:carbide"
+    },
+    {
+      "item": "geoimmersion:carbide"
+    }
+  ],
+  "result": {
+    "item": "geoimmersion:miner_helmet_helmet",
+    "count": 1
+  }
+}

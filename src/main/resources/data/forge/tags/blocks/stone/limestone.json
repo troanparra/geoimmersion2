@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "geoimmersion:metalimestone",
+    "geoimmersion:gravity_limestone",
+    "geoimmersion:limestone",
+    "geoimmersion:coalon_metalimestone",
+    "geoimmersion:polishedlimestone",
+    "geoimmersion:carvedlimestone_1",
+    "geoimmersion:carvedlimestone_3",
+    "geoimmersion:carvedlimestone_2",
+    "geoimmersion:coalonlimestone",
+    "geoimmersion:carvedlimestone_4",
+    "geoimmersion:limestonebricks"
+  ]
+}

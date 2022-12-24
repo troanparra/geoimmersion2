@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/softsnow"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/softsnow_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/softsnow_full"
+    }
+  }
+}

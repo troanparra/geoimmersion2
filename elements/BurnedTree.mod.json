@@ -1,0 +1,36 @@
+{
+  "_fv": 34,
+  "_type": "structure",
+  "definition": {
+    "structure": "burned_tree",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 30000,
+    "minCountPerChunk": 16,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Volcanicash"
+      },
+      {
+        "value": "CUSTOM:Basalt"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Volcanicterrain"
+      },
+      {
+        "value": "CUSTOM:Rioliticterrain"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

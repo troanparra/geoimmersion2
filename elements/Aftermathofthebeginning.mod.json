@@ -1,0 +1,21 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aftermath of the beginning - Troan Parra",
+    "texture": "aftermatch_of_the_beginningv2",
+    "description": "Aftermath of the beginning - Troan Parra",
+    "creativeTab": {
+      "value": "CUSTOM:GeoimmersionMiscellaneous"
+    },
+    "specialInfo": [
+      "The beginning of Earth history starts on the corpse of a ancestral star"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:aftermath_of_the_beginning"
+    },
+    "lengthInTicks": 0,
+    "analogOutput": 0
+  }
+}

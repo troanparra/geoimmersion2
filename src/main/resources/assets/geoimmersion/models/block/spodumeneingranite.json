@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/granite_spodumene",
+    "up": "geoimmersion:blocks/granite_spodumene",
+    "north": "geoimmersion:blocks/granite_spodumene",
+    "east": "geoimmersion:blocks/granite_spodumene",
+    "south": "geoimmersion:blocks/granite_spodumene",
+    "west": "geoimmersion:blocks/granite_spodumene",
+    "particle": "geoimmersion:blocks/granite_spodumene"
+  }
+}

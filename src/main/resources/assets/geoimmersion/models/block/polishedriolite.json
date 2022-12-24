@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/polished_riolite",
+    "up": "geoimmersion:blocks/polished_riolite",
+    "north": "geoimmersion:blocks/polished_riolite",
+    "east": "geoimmersion:blocks/polished_riolite",
+    "south": "geoimmersion:blocks/polished_riolite",
+    "west": "geoimmersion:blocks/polished_riolite",
+    "particle": "geoimmersion:blocks/polished_riolite"
+  }
+}

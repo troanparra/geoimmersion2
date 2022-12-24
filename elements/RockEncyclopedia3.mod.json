@@ -1,0 +1,147 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 270,
+    "height": 190,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Geoimmersion Encyclopedia: Rocks",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Geoimmersion Encyclopedia: Rocks",
+          "x": 96,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "OpenRock2"
+          },
+          "width": 9,
+          "height": 20,
+          "name": ".",
+          "x": 96,
+          "y": 182
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Limestone",
+          "onClick": {
+            "name": "LimestoneButtonClicked"
+          },
+          "width": 72,
+          "height": 20,
+          "name": "Limestone",
+          "x": 115,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Sandstone",
+          "onClick": {
+            "name": "SandstoneButtonClicked"
+          },
+          "width": 72,
+          "height": 20,
+          "name": "Sandstone",
+          "x": 115,
+          "y": 106
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Metalimestone",
+          "onClick": {
+            "name": "MetalimestoneButtonClicked"
+          },
+          "width": 93,
+          "height": 20,
+          "name": "Metalimestone",
+          "x": 210,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Metasandstone",
+          "onClick": {
+            "name": "MetasandstoneButtonClicked"
+          },
+          "width": 93,
+          "height": 20,
+          "name": "Metasandstone",
+          "x": 210,
+          "y": 106
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Travertine",
+          "onClick": {
+            "name": "TravertineButtonClicked"
+          },
+          "width": 77,
+          "height": 20,
+          "name": "Travertine",
+          "x": 220,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Evaporite",
+          "onClick": {
+            "name": "EvaporiteButtonClicked"
+          },
+          "width": 72,
+          "height": 20,
+          "name": "Evaporite",
+          "x": 115,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Banded Iron Formation",
+          "onClick": {
+            "name": "BIFButtonClicked"
+          },
+          "width": 134,
+          "height": 20,
+          "name": "Banded Iron Formation",
+          "x": 144,
+          "y": 163
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 19,
+      "sy": 19,
+      "ox": 1,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

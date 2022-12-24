@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/evaporite_top_bottom",
+    "up": "geoimmersion:blocks/evaporite_top_bottom",
+    "north": "geoimmersion:blocks/evaporite",
+    "east": "geoimmersion:blocks/evaporite",
+    "south": "geoimmersion:blocks/evaporite",
+    "west": "geoimmersion:blocks/evaporite",
+    "particle": "geoimmersion:blocks/evaporite_top_bottom"
+  }
+}

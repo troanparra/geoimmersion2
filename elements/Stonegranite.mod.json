@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Granite"
+      },
+      {
+        "value": "Blocks.STONE#2"
+      }
+    ],
+    "functions": [],
+    "name": "stone/granite",
+    "namespace": "minecraft"
+  }
+}

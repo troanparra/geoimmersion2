@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/schostslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/schostslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/schostslab_full"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/basalt_polished",
+    "up": "geoimmersion:blocks/basalt_polished",
+    "north": "geoimmersion:blocks/basalt_polished",
+    "east": "geoimmersion:blocks/basalt_polished",
+    "south": "geoimmersion:blocks/basalt_polished",
+    "west": "geoimmersion:blocks/basalt_polished",
+    "particle": "geoimmersion:blocks/basalt_polished"
+  }
+}

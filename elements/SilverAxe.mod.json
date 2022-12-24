@@ -1,0 +1,37 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "silver_axe",
+    "customModelName": "Normal",
+    "name": "Silver Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:GeoimmersionTools"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 7.0,
+    "attackSpeed": 1.0,
+    "enchantability": 18,
+    "damageVsEntity": 9.0,
+    "usageCount": 500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SilverIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "SilverAxeItemIsCraftedsmelted"
+    },
+    "onEntityHitWith": {
+      "name": "SilverSwordLivingEntityIsHitWithTool"
+    }
+  }
+}

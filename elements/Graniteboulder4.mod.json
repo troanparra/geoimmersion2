@@ -1,0 +1,54 @@
+{
+  "_fv": 34,
+  "_type": "structure",
+  "definition": {
+    "structure": "granite_boulder4",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 10000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -4,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "birch_forest"
+      },
+      {
+        "value": "roofed_forest"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "savanna"
+      },
+      {
+        "value": "snowy_tundra"
+      },
+      {
+        "value": "taiga_cold"
+      },
+      {
+        "value": "taiga"
+      },
+      {
+        "value": "redwood_taiga"
+      },
+      {
+        "value": "plains"
+      }
+    ],
+    "ignoreBlocks": "AIR"
+  }
+}

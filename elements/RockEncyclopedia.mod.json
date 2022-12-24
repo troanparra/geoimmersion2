@@ -1,0 +1,189 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 270,
+    "height": 190,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Granite",
+          "onClick": {
+            "name": "GraniteButtonClicked"
+          },
+          "width": 61,
+          "height": 20,
+          "name": "Granite",
+          "x": 106,
+          "y": 77
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Geoimmersion Encyclopedia: Rocks",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Geoimmersion Encyclopedia: Rocks",
+          "x": 96,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "GobackButtonClicked"
+          },
+          "width": 9,
+          "height": 20,
+          "name": ".",
+          "x": 96,
+          "y": 182
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Diorite",
+          "onClick": {
+            "name": "DioriteButtonClicked"
+          },
+          "width": 61,
+          "height": 20,
+          "name": "Diorite",
+          "x": 106,
+          "y": 106
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Andesite",
+          "onClick": {
+            "name": "AndesiteButtonClicked"
+          },
+          "width": 67,
+          "height": 20,
+          "name": "Andesite",
+          "x": 106,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Basalt",
+          "onClick": {
+            "name": "BasaltButtonClicked"
+          },
+          "width": 56,
+          "height": 20,
+          "name": "Basalt",
+          "x": 182,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Riolite",
+          "onClick": {
+            "name": "RioliteButtonClicked"
+          },
+          "width": 61,
+          "height": 20,
+          "name": "Riolite",
+          "x": 182,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Gabbro",
+          "onClick": {
+            "name": "GabbroButtonClicked"
+          },
+          "width": 56,
+          "height": 20,
+          "name": "Gabbro",
+          "x": 182,
+          "y": 106
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Peridotite",
+          "onClick": {
+            "name": "PeridotiteButtonClicked"
+          },
+          "width": 77,
+          "height": 20,
+          "name": "Peridotite",
+          "x": 248,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Kimberlite",
+          "onClick": {
+            "name": "KimberliteButtonClicked"
+          },
+          "width": 77,
+          "height": 20,
+          "name": "Kimberlite",
+          "x": 248,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "OpenRock2"
+          },
+          "width": 9,
+          "height": 20,
+          "name": ".",
+          "x": 324,
+          "y": 182
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Diabase",
+          "onClick": {
+            "name": "DiabaseButtonClicked"
+          },
+          "width": 61,
+          "height": 20,
+          "name": "Diabase",
+          "x": 258,
+          "y": 106
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 19,
+      "sy": 19,
+      "ox": 1,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "geoimmersion:blocks/slate_tilesmall",
+    "top": "geoimmersion:blocks/slate_tilesmall",
+    "side": "geoimmersion:blocks/slate_tilesmall"
+  }
+}

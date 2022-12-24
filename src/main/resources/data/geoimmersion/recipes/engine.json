@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:steel"
+    },
+    "1": {
+      "item": "geoimmersion:steel"
+    },
+    "2": {
+      "item": "geoimmersion:steel"
+    },
+    "3": {
+      "item": "geoimmersion:piston"
+    },
+    "4": {
+      "item": "geoimmersion:piston"
+    },
+    "5": {
+      "item": "geoimmersion:piston"
+    },
+    "6": {
+      "item": "geoimmersion:cylinder"
+    },
+    "7": {
+      "item": "geoimmersion:cylinder"
+    },
+    "8": {
+      "item": "geoimmersion:cylinder"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:engineblock",
+    "count": 1
+  }
+}

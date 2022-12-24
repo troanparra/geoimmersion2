@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Limestone"
+      },
+      {
+        "value": "CUSTOM:GravityLimestone"
+      },
+      {
+        "value": "CUSTOM:Metalimestone"
+      },
+      {
+        "value": "CUSTOM:Coalonlimestone"
+      },
+      {
+        "value": "CUSTOM:CoalonMetalimestone"
+      },
+      {
+        "value": "CUSTOM:Polishedlimestone"
+      },
+      {
+        "value": "CUSTOM:Carvedlimestone1"
+      },
+      {
+        "value": "CUSTOM:Carvedlimestone2"
+      },
+      {
+        "value": "CUSTOM:Carvedlimestone3"
+      },
+      {
+        "value": "CUSTOM:Carvedlimestone4"
+      },
+      {
+        "value": "CUSTOM:Limestonebricks"
+      }
+    ],
+    "functions": [],
+    "name": "stone/limestone",
+    "namespace": "forge"
+  }
+}

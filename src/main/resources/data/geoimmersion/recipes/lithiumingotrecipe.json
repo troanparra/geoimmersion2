@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:lithiumnugget"
+    },
+    "1": {
+      "item": "geoimmersion:lithiumnugget"
+    },
+    "2": {
+      "item": "geoimmersion:lithiumnugget"
+    },
+    "3": {
+      "item": "geoimmersion:lithiumnugget"
+    },
+    "4": {
+      "item": "geoimmersion:lithiumnugget"
+    },
+    "5": {
+      "item": "geoimmersion:lithiumnugget"
+    },
+    "6": {
+      "item": "geoimmersion:lithiumnugget"
+    },
+    "7": {
+      "item": "geoimmersion:lithiumnugget"
+    },
+    "8": {
+      "item": "geoimmersion:lithiumnugget"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:lithiumingot",
+    "count": 1
+  }
+}

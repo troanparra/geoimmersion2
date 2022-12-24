@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/yellowipe_planks",
+    "up": "geoimmersion:blocks/yellowipe_planks",
+    "north": "geoimmersion:blocks/yellowipe_planks",
+    "east": "geoimmersion:blocks/yellowipe_planks",
+    "south": "geoimmersion:blocks/yellowipe_planks",
+    "west": "geoimmersion:blocks/yellowipe_planks",
+    "particle": "geoimmersion:blocks/yellowipe_planks"
+  }
+}

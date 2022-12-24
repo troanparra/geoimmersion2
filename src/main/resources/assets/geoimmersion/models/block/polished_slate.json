@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/slate_tile",
+    "up": "geoimmersion:blocks/slate_tile",
+    "north": "geoimmersion:blocks/slate_tile",
+    "east": "geoimmersion:blocks/slate_tile",
+    "south": "geoimmersion:blocks/slate_tile",
+    "west": "geoimmersion:blocks/slate_tile",
+    "particle": "geoimmersion:blocks/slate_tile"
+  }
+}

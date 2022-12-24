@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "geoimmersion:blocks/limestone_bot",
+    "top": "geoimmersion:blocks/limestone_bot",
+    "side": "geoimmersion:blocks/limestone"
+  }
+}

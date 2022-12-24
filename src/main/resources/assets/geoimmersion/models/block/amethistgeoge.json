@@ -1,0 +1,9 @@
+{
+  "parent": "geoimmersion:custom/amethyst",
+  "textures": {
+    "all": "geoimmersion:blocks/amethist",
+    "particle": "geoimmersion:blocks/amethist",
+    "0": "geoimmersion:blocks/amethist",
+    "missing": "geoimmersion:blocks/amethist"
+  }
+}

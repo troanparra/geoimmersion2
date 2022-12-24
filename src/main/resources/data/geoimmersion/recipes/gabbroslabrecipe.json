@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "geoimmersion:gabro"
+  },
+  "result": "geoimmersion:gabbro_slab"
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "basalt_colunarside1",
+        "1": "basalt_colunarside2",
+        "2": "basalt_colunartopbot"
+      },
+      "name": "default"
+    }
+  }
+}

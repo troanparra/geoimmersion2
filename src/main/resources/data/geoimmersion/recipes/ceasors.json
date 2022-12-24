@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:aluminium"
+    },
+    "2": {
+      "item": "geoimmersion:aluminium"
+    },
+    "4": {
+      "item": "geoimmersion:aluminium"
+    },
+    "6": {
+      "item": "geoimmersion:aluminium"
+    },
+    "8": {
+      "item": "geoimmersion:aluminium"
+    }
+  },
+  "result": {
+    "item": "minecraft:shears",
+    "count": 1
+  }
+}

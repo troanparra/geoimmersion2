@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "geoimmersion:blocks/polished_schist_bricks",
+    "particle": "geoimmersion:blocks/polished_schist_bricks"
+  }
+}

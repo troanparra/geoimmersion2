@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 3,
+  "ingredient": {
+    "item": "geoimmersion:schistbricks"
+  },
+  "result": "geoimmersion:schist_brick_wall"
+}

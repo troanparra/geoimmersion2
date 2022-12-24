@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "geoimmersion:limestone_biome",
+    "geoimmersion:sandstone_biome",
+    "geoimmersion:volcanicterrain",
+    "geoimmersion:red_soil_plains"
+  ]
+}

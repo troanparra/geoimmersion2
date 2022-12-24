@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "geoimmersion:blocks/limestone_bricks",
+    "top": "geoimmersion:blocks/limestone_bricks",
+    "side": "geoimmersion:blocks/limestone_bricks"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "geoimmersion:blocks/polished_schist",
+    "top": "geoimmersion:blocks/polished_schist",
+    "side": "geoimmersion:blocks/polished_schist"
+  }
+}

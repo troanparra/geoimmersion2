@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 5,
+  "cookingtime": 400,
+  "ingredient": {
+    "item": "geoimmersion:wolframite"
+  },
+  "result": "geoimmersion:tungsteningot"
+}

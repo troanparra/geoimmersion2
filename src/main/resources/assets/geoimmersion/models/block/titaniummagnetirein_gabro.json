@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/gabbro_titanomagnetite",
+    "up": "geoimmersion:blocks/gabbro_titanomagnetite",
+    "north": "geoimmersion:blocks/gabbro_titanomagnetite",
+    "east": "geoimmersion:blocks/gabbro_titanomagnetite",
+    "south": "geoimmersion:blocks/gabbro_titanomagnetite",
+    "west": "geoimmersion:blocks/gabbro_titanomagnetite",
+    "particle": "geoimmersion:blocks/gabbro_titanomagnetite"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/peridotite32x32",
+    "up": "geoimmersion:blocks/peridotite32x32",
+    "north": "geoimmersion:blocks/peridotite32x32",
+    "east": "geoimmersion:blocks/peridotite32x32",
+    "south": "geoimmersion:blocks/peridotite32x32",
+    "west": "geoimmersion:blocks/peridotite32x32",
+    "particle": "geoimmersion:blocks/peridotite32x32"
+  }
+}

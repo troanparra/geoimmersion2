@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/glacier_ice",
+    "up": "geoimmersion:blocks/glacier_ice",
+    "north": "geoimmersion:blocks/glacier_ice",
+    "east": "geoimmersion:blocks/glacier_ice",
+    "south": "geoimmersion:blocks/glacier_ice",
+    "west": "geoimmersion:blocks/glacier_ice",
+    "particle": "geoimmersion:blocks/glacier_ice"
+  }
+}

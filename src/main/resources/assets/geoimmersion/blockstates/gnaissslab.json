@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/gnaissslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/gnaissslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/gnaissslab_full"
+    }
+  }
+}

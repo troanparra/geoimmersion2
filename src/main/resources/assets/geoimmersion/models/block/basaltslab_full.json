@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "geoimmersion:blocks/basalt_left",
+    "top": "geoimmersion:blocks/basalt_left",
+    "side": "geoimmersion:blocks/basalt_left"
+  }
+}

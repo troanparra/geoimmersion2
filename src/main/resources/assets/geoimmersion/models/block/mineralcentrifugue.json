@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/mineral_centrifuge_sides",
+    "up": "geoimmersion:blocks/mineral_centrifuge_topon",
+    "north": "geoimmersion:blocks/mineral_centrifuge_fronton",
+    "east": "geoimmersion:blocks/mineral_centrifuge_sides",
+    "south": "geoimmersion:blocks/mineral_centrifuge_sides",
+    "west": "geoimmersion:blocks/mineral_centrifuge_sidepaneloff",
+    "particle": "geoimmersion:blocks/mineral_centrifuge_sides"
+  }
+}

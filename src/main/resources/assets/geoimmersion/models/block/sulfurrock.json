@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/sulfur",
+    "up": "geoimmersion:blocks/sulfur",
+    "north": "geoimmersion:blocks/sulfur",
+    "east": "geoimmersion:blocks/sulfur",
+    "south": "geoimmersion:blocks/sulfur",
+    "west": "geoimmersion:blocks/sulfur",
+    "particle": "geoimmersion:blocks/sulfur"
+  }
+}

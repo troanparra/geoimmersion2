@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:uraniumnugget"
+    },
+    "1": {
+      "item": "geoimmersion:uraniumnugget"
+    },
+    "2": {
+      "item": "geoimmersion:uraniumnugget"
+    },
+    "3": {
+      "item": "geoimmersion:uraniumnugget"
+    },
+    "4": {
+      "item": "geoimmersion:uraniumnugget"
+    },
+    "5": {
+      "item": "geoimmersion:uraniumnugget"
+    },
+    "6": {
+      "item": "geoimmersion:uraniumnugget"
+    },
+    "7": {
+      "item": "geoimmersion:uraniumnugget"
+    },
+    "8": {
+      "item": "geoimmersion:uraniumnugget"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:uraniumingot",
+    "count": 1
+  }
+}

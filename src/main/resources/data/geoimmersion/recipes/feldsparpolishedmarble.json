@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "geoimmersion:feldsparsandpaper"
+    },
+    {
+      "item": "geoimmersion:marble"
+    }
+  ],
+  "result": {
+    "item": "geoimmersion:polished_marble",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Custom license"
+
+[[mods]]
+modId="geoimmersion"
+version="0.5.0"
+displayName="Geoimmersion"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="The Geoimmersion Team"
+description='''
+Realistic Petrology and Mineralogy, compatible with forge mod resources
+'''
+
+[[dependencies.geoimmersion]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

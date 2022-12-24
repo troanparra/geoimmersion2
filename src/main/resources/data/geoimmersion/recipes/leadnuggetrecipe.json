@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "geoimmersion:galena"
+  },
+  "result": "geoimmersion:leadnugget"
+}

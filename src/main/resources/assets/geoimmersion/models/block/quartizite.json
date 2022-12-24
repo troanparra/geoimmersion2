@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/quartzite",
+    "up": "geoimmersion:blocks/quartzite",
+    "north": "geoimmersion:blocks/quartzite",
+    "east": "geoimmersion:blocks/quartzite",
+    "south": "geoimmersion:blocks/quartzite",
+    "west": "geoimmersion:blocks/quartzite",
+    "particle": "geoimmersion:blocks/quartzite"
+  }
+}

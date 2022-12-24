@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "geoimmersion:gnaissbricks"
+  },
+  "result": "geoimmersion:gneiss_bricks_stairs"
+}

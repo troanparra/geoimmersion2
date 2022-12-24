@@ -1,0 +1,12 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "name": "ingots/lithium",
+    "namespace": "forge"
+  }
+}

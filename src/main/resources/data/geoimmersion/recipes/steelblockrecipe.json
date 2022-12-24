@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:steel"
+    },
+    "1": {
+      "item": "geoimmersion:steel"
+    },
+    "2": {
+      "item": "geoimmersion:steel"
+    },
+    "3": {
+      "item": "geoimmersion:steel"
+    },
+    "4": {
+      "item": "geoimmersion:steel"
+    },
+    "5": {
+      "item": "geoimmersion:steel"
+    },
+    "6": {
+      "item": "geoimmersion:steel"
+    },
+    "7": {
+      "item": "geoimmersion:steel"
+    },
+    "8": {
+      "item": "geoimmersion:steel"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:steelblock",
+    "count": 1
+  }
+}

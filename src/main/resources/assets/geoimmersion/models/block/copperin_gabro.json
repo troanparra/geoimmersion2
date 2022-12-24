@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/gabbro_copper",
+    "up": "geoimmersion:blocks/gabbro_copper",
+    "north": "geoimmersion:blocks/gabbro_copper",
+    "east": "geoimmersion:blocks/gabbro_copper",
+    "south": "geoimmersion:blocks/gabbro_copper",
+    "west": "geoimmersion:blocks/gabbro_copper",
+    "particle": "geoimmersion:blocks/gabbro_copper"
+  }
+}

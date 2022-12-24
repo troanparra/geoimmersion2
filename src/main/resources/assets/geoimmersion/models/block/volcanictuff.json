@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/volcanic_tuff",
+    "up": "geoimmersion:blocks/volcanic_tuff",
+    "north": "geoimmersion:blocks/volcanic_tuff",
+    "east": "geoimmersion:blocks/volcanic_tuff",
+    "south": "geoimmersion:blocks/volcanic_tuff",
+    "west": "geoimmersion:blocks/volcanic_tuff",
+    "particle": "geoimmersion:blocks/volcanic_tuff"
+  }
+}

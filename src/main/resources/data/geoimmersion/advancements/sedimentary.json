@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:sand"
+    },
+    "title": {
+      "translate": "advancements.sedimentary.title"
+    },
+    "description": {
+      "translate": "advancements.sedimentary.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "sedimentary": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "geoimmersion:geoimmersion"
+}

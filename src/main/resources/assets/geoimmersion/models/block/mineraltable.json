@@ -1,0 +1,8 @@
+{
+  "parent": "geoimmersion:custom/mineral_table",
+  "textures": {
+    "all": "geoimmersion:blocks/mineral_table",
+    "particle": "geoimmersion:blocks/mineral_table",
+    "1": "geoimmersion:blocks/mineral_table"
+  }
+}

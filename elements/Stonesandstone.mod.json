@@ -1,0 +1,55 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Sandstone"
+      },
+      {
+        "value": "CUSTOM:Metasandstone"
+      },
+      {
+        "value": "CUSTOM:CoalonSandstone"
+      },
+      {
+        "value": "CUSTOM:GravitySandstone"
+      },
+      {
+        "value": "CUSTOM:CoalinMetasandstone"
+      },
+      {
+        "value": "CUSTOM:Polishedsandstone"
+      },
+      {
+        "value": "CUSTOM:Polishedsandstonebricks"
+      },
+      {
+        "value": "CUSTOM:Simplecarvedsandstone1"
+      },
+      {
+        "value": "CUSTOM:Carvedsandstone1"
+      },
+      {
+        "value": "CUSTOM:Carvedsandstone2"
+      },
+      {
+        "value": "CUSTOM:Carvedsandstone3"
+      },
+      {
+        "value": "CUSTOM:Carvedsandstone4"
+      },
+      {
+        "value": "CUSTOM:Carvedsandstone5"
+      },
+      {
+        "value": "CUSTOM:Carvedsandstone6"
+      }
+    ],
+    "functions": [],
+    "name": "stone/sandstone",
+    "namespace": "minecraft"
+  }
+}

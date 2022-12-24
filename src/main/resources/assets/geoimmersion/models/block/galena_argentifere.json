@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/galena_argentifere_animated_",
+    "up": "geoimmersion:blocks/galena_argentifere_animated_",
+    "north": "geoimmersion:blocks/galena_argentifere_animated_",
+    "east": "geoimmersion:blocks/galena_argentifere_animated_",
+    "south": "geoimmersion:blocks/galena_argentifere_animated_",
+    "west": "geoimmersion:blocks/galena_argentifere_animated_",
+    "particle": "geoimmersion:blocks/galena_argentifere_animated_"
+  }
+}

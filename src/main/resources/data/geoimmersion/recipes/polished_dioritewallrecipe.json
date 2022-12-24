@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 3,
+  "ingredient": {
+    "item": "geoimmersion:polished_diorite"
+  },
+  "result": "geoimmersion:polisheddioritewall"
+}

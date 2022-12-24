@@ -1,0 +1,203 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 270,
+    "height": 190,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Geoimmersion Encyclopedia: Minerals",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Geoimmersion Encyclopedia: Minerals",
+          "x": 96,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "GobackButtonClicked"
+          },
+          "width": 9,
+          "height": 20,
+          "name": ".",
+          "x": 96,
+          "y": 182
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "OpenMineral2"
+          },
+          "width": 9,
+          "height": 20,
+          "name": ".",
+          "x": 324,
+          "y": 182
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Quartz",
+          "onClick": {
+            "name": "QuartzButtonClicked"
+          },
+          "width": 56,
+          "height": 20,
+          "name": "Quartz",
+          "x": 106,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Feldspar",
+          "onClick": {
+            "name": "FeldsparButtonClicked"
+          },
+          "width": 67,
+          "height": 20,
+          "name": "Feldspar",
+          "x": 248,
+          "y": 106
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Biotite",
+          "onClick": {
+            "name": "BiotiteButtonClicked"
+          },
+          "width": 61,
+          "height": 20,
+          "name": "Biotite",
+          "x": 106,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Garnet",
+          "onClick": {
+            "name": "GarnetButtonClicked"
+          },
+          "width": 56,
+          "height": 20,
+          "name": "Garnet",
+          "x": 182,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Olivine",
+          "onClick": {
+            "name": "OlivineButtonClicked"
+          },
+          "width": 61,
+          "height": 20,
+          "name": "Olivine",
+          "x": 106,
+          "y": 106
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Hornblende",
+          "onClick": {
+            "name": "HornblendeButtonClicked"
+          },
+          "width": 77,
+          "height": 20,
+          "name": "Hornblende",
+          "x": 248,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Sulfur",
+          "onClick": {
+            "name": "SulfurButtonClicked"
+          },
+          "width": 56,
+          "height": 20,
+          "name": "Sulfur",
+          "x": 182,
+          "y": 106
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Rutile",
+          "onClick": {
+            "name": "RutileButtonClicked"
+          },
+          "width": 56,
+          "height": 20,
+          "name": "Rutile",
+          "x": 182,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Tourmaline",
+          "onClick": {
+            "name": "TourmalineButtonClicked"
+          },
+          "width": 77,
+          "height": 20,
+          "name": "Tourmaline",
+          "x": 172,
+          "y": 163
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Apatite",
+          "onClick": {
+            "name": "ApatiteButtonClicked"
+          },
+          "width": 61,
+          "height": 20,
+          "name": "Apatite",
+          "x": 248,
+          "y": 77
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 19,
+      "sy": 19,
+      "ox": 1,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

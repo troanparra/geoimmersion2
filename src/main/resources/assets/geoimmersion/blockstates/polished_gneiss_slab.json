@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/polished_gneiss_slab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/polished_gneiss_slab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/polished_gneiss_slab_full"
+    }
+  }
+}

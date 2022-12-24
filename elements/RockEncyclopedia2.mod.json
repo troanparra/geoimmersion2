@@ -1,0 +1,161 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 270,
+    "height": 190,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Geoimmersion Encyclopedia: Rocks",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Geoimmersion Encyclopedia: Rocks",
+          "x": 96,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "RocksButtonClicked"
+          },
+          "width": 9,
+          "height": 20,
+          "name": ".",
+          "x": 96,
+          "y": 182
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ".",
+          "onClick": {
+            "name": "OpenRock3"
+          },
+          "width": 9,
+          "height": 20,
+          "name": ".",
+          "x": 324,
+          "y": 182
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Marble",
+          "onClick": {
+            "name": "MarbleButtonClicked"
+          },
+          "width": 56,
+          "height": 20,
+          "name": "Marble",
+          "x": 134,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Gneiss",
+          "onClick": {
+            "name": "GneissButtonClicked"
+          },
+          "width": 56,
+          "height": 20,
+          "name": "Gneiss",
+          "x": 134,
+          "y": 106
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Quartzite",
+          "onClick": {
+            "name": "QuartziteButtonClicked"
+          },
+          "width": 72,
+          "height": 20,
+          "name": "Quartzite",
+          "x": 172,
+          "y": 163
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Schist",
+          "onClick": {
+            "name": "SchistButtonClicked"
+          },
+          "width": 56,
+          "height": 20,
+          "name": "Schist",
+          "x": 134,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Slate",
+          "onClick": {
+            "name": "SlateButtonClicked"
+          },
+          "width": 51,
+          "height": 20,
+          "name": "Slate",
+          "x": 229,
+          "y": 106
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Skarn",
+          "onClick": {
+            "name": "SkarnButtonClicked"
+          },
+          "width": 51,
+          "height": 20,
+          "name": "Skarn",
+          "x": 229,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Bauxite",
+          "onClick": {
+            "name": "BauxiteButtonClicked"
+          },
+          "width": 61,
+          "height": 20,
+          "name": "Bauxite",
+          "x": 229,
+          "y": 134
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 19,
+      "sy": 19,
+      "ox": 1,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

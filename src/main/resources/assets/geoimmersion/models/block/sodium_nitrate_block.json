@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "geoimmersion:blocks/sodium_nitrate_block",
+    "up": "geoimmersion:blocks/sodium_nitrate_block",
+    "north": "geoimmersion:blocks/sodium_nitrate_block",
+    "east": "geoimmersion:blocks/sodium_nitrate_block",
+    "south": "geoimmersion:blocks/sodium_nitrate_block",
+    "west": "geoimmersion:blocks/sodium_nitrate_block",
+    "particle": "geoimmersion:blocks/sodium_nitrate_block"
+  }
+}

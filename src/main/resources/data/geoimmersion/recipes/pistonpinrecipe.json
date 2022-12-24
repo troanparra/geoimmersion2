@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:steel"
+    },
+    "1": {
+      "item": "geoimmersion:steel"
+    },
+    "2": {
+      "item": "geoimmersion:steel"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:pistonpin",
+    "count": 3
+  }
+}

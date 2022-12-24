@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "geoimmersion:blocks/polished_diabase",
+    "top": "geoimmersion:blocks/polished_diabase",
+    "side": "geoimmersion:blocks/polished_diabase"
+  }
+}

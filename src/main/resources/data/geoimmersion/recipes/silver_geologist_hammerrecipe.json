@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:silver_ingot"
+    },
+    "1": {
+      "item": "geoimmersion:silver_ingot"
+    },
+    "2": {
+      "item": "geoimmersion:silver_ingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "geoimmersion:silvergeologisthammer",
+    "count": 1
+  }
+}

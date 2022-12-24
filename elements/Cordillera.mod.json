@@ -1,0 +1,197 @@
+{
+  "_fv": 34,
+  "_type": "biome",
+  "definition": {
+    "name": "Cordillera",
+    "groundBlock": {
+      "value": "CUSTOM:Softsnow"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.SNOW"
+    },
+    "underwaterBlock": {
+      "value": ""
+    },
+    "airColor": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": "CUSTOM:aftermath_of_the_beginning"
+    },
+    "moodSoundDelay": 15000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:Magmadrop"
+    },
+    "particlesProbability": 0.0,
+    "rainingPossibility": 1.0,
+    "temperature": -0.2,
+    "baseHeight": 7.0,
+    "heightVariation": 2.0,
+    "spawnBiome": true,
+    "spawnBiomeNether": false,
+    "spawnInCaves": false,
+    "biomeWeight": 90,
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 1,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 8,
+    "reedsPerChunk": 4,
+    "cactiPerChunk": 4,
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Mega pine trees",
+    "treeType": 0,
+    "minHeight": 7,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "snowy",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": true,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "MonsterRooms",
+      "Structures",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityAnimal"
+        },
+        "minGroup": 1,
+        "maxGroup": 4,
+        "weight": 5,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityCat"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 5,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityCreeper"
+        },
+        "minGroup": 1,
+        "maxGroup": 4,
+        "weight": 5,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityFox"
+        },
+        "minGroup": 1,
+        "maxGroup": 4,
+        "weight": 5,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityZombie"
+        },
+        "minGroup": 1,
+        "maxGroup": 4,
+        "weight": 5,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityWolf"
+        },
+        "minGroup": 1,
+        "maxGroup": 4,
+        "weight": 5,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityRabbit"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 5,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityLlama"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 5,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntitySheep"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 5,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

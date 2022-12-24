@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "geoimmersion:block/dioritebricksslab"
+    },
+    "type=top": {
+      "model": "geoimmersion:block/dioritebricksslab_top"
+    },
+    "type=double": {
+      "model": "geoimmersion:block/dioritebricksslab_full"
+    }
+  }
+}

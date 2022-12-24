@@ -1,0 +1,11 @@
+{
+  "parent": "geoimmersion:custom/redsoil_grass_block",
+  "textures": {
+    "all": "geoimmersion:blocks/redsoil",
+    "particle": "geoimmersion:blocks/redsoil",
+    "side": "geoimmersion:blocks/redsoil",
+    "top": "geoimmersion:blocks/grass_block_top",
+    "overlay": "geoimmersion:blocks/grass_block_side_overlay",
+    "bottom": "geoimmersion:blocks/redsoil"
+  }
+}

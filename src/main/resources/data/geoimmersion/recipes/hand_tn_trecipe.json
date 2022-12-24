@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "geoimmersion:hand_tnt"
+    },
+    "1": {
+      "item": "minecraft:sand"
+    },
+    "2": {
+      "item": "geoimmersion:hand_tnt"
+    },
+    "3": {
+      "item": "minecraft:sand"
+    },
+    "4": {
+      "item": "geoimmersion:hand_tnt"
+    },
+    "5": {
+      "item": "minecraft:sand"
+    },
+    "6": {
+      "item": "geoimmersion:hand_tnt"
+    },
+    "7": {
+      "item": "minecraft:sand"
+    },
+    "8": {
+      "item": "geoimmersion:hand_tnt"
+    }
+  },
+  "result": {
+    "item": "minecraft:tnt",
+    "count": 1
+  }
+}
